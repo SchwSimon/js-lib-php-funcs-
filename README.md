@@ -1,3 +1,3 @@
-# js-lib-php-funcs-
+# stuff
 
-php like js function libraries, test only!
+just some stuff
